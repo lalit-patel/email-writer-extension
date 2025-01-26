@@ -3,9 +3,9 @@
 Email Writer is a browser extension that enhances your email composing experience by adding an AI Reply button to your email compose toolbox. This button generates a reply based on the content of the email you received, making your responses faster and more efficient.
 
 ## Features:
--AI-Generated Replies: Click the "AI Reply" button in your email compose toolbox to get an AI-generated reply tailored to the content of the email you received.
--Easy-to-Use Interface: The extension seamlessly integrates into your email client, providing a user-friendly interface for generating replies.
--Web Interface: If you prefer not to use the extension, visit our website where you can copy-paste the email content and receive an AI-generated reply.
+- AI-Generated Replies: Click the "AI Reply" button in your email compose toolbox to get an AI-generated reply tailored to the content of the email you received.
+- Easy-to-Use Interface: The extension seamlessly integrates into your email client, providing a user-friendly interface for generating replies.
+- Web Interface: If you prefer not to use the extension, visit our website where you can copy-paste the email content and receive an AI-generated reply.
 
 ## How It Works:
 -Once the extension is installed, open your email client (such as Gmail).

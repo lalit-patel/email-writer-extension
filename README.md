@@ -15,8 +15,9 @@ Email Writer is a browser extension that enhances your email composing experienc
 - Alternatively, you can use the website to copy and paste the email content and get a reply from the AI.
 
 ## Extension Screenshots 
-![Screenshot 2025-01-26 213737](https://github.com/user-attachments/assets/e520c880-d6eb-41d3-8eab-36ef289921a7)
-![Screenshot 2025-01-26 213759](https://github.com/user-attachments/assets/939ba077-4fe5-47f7-9fdd-cdb53d52fcf2)
+![Screenshot 2025-01-26 224456](https://github.com/user-attachments/assets/240dfcc9-2677-4d47-91c8-92963275a366)
+![Screenshot 2025-01-26 224542](https://github.com/user-attachments/assets/dd872c31-0997-4207-ad83-29473816f416)
+
 
 ## Website Screenshots
 ![Screenshot 2025-01-26 214911](https://github.com/user-attachments/assets/f42dab6d-ae99-4ba1-9e8e-efb4cb88ba10)
